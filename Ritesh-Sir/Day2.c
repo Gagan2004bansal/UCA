@@ -97,3 +97,11 @@ int main()
 
 
 // 31 July 2024
+
+
+// 14 August 2024
+// float Binary Represnetation
+
+// ques 
+
+// revision pcb and os how works ?
